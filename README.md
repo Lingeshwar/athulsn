@@ -1,4 +1,4 @@
-<img src="https://i.giphy.com/2xEjo2A8e9ZhkZQxkU.gif" alt="Here is a little bit about me!">
+<img src="my_anim.gif" alt="Here is a little bit about me!">
 
 <!--
 **athulsn/athulsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
