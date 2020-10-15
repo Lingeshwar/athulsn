@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://i.giphy.com/media/zRnohK0fZh81fMAWmz/giphy.webp" alt="Here is a little bit about me!">
 
 <!--
 **athulsn/athulsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
